@@ -26,9 +26,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ```
 Test
-#--Do a pull
-#--npm install
-#--npm run serve
+--Do a pull
+--npm install
+--npm run serve
 Or test it Directly at : https://aggelos-weather.netlify.app/
 ```
 @Aggelos 2022
