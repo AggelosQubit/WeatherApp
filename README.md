@@ -29,6 +29,6 @@ Test
 #--Do a pull
 #--npm install
 #--npm run serve
-#Or test it Directly at : https://aggelos-weather.netlify.app/
+#Or test it Directly at : <a href="https://aggelos-weather.netlify.app/">Aggelos Weather App</a>
 ```
 @Aggelos 2022
